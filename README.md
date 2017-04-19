@@ -1,2 +1,2 @@
-# pytorch-basics
-Intro to pytorch with examples of common operations
+# Pytorch Cheatsheet
+Pytorch snippets for common tasks and operations
