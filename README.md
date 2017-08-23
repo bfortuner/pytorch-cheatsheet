@@ -1,4 +1,3 @@
-# Pytorch Cheatsheet
-Pytorch snippets for common tasks and operations
+# Pytorch Cheatsheet (Deprecated)
 
-I'd like to turn this into a Pytorch starter kit. If you're keen, send me a PR. :)
+These examples are out-of-date. For more updated examples, see: [Pytorch Kaggle Starter](https://github.com/bfortuner/pytorch-kaggle-starter).
